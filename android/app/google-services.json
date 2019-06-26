@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "148748934317",
+    "firebase_url": "https://ayancse100.firebaseio.com",
+    "project_id": "ayancse100",
+    "storage_bucket": "ayancse100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148748934317:android:9054024e8c0f06db",
+        "android_client_info": {
+          "package_name": "com.example.flutter_soil_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148748934317-6lgh6aan98kunssk85gtlgob622j2gje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_soil_app",
+            "certificate_hash": "8c9e5a5b36dfcf3182707aea22564cee0b22a4ae"
+          }
+        },
+        {
+          "client_id": "148748934317-ia1a2e1a1rhu8tgpeubbph4fgdl30dk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQmOQW4Sz4Iiw_zFlSj0yXLvuRrHvDObA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148748934317-ia1a2e1a1rhu8tgpeubbph4fgdl30dk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148748934317:android:e11bfee7349d8553",
+        "android_client_info": {
+          "package_name": "com.example.zango"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148748934317-ia1a2e1a1rhu8tgpeubbph4fgdl30dk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQmOQW4Sz4Iiw_zFlSj0yXLvuRrHvDObA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148748934317-ia1a2e1a1rhu8tgpeubbph4fgdl30dk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
